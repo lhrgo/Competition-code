@@ -1,2 +1,1 @@
-# BigDataNotes
-DataScience
+# DataScience
